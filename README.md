@@ -13,9 +13,25 @@ The images of both datasets were resized to a dimension of 512*512*3. The archit
 
 ## Results and Discussion
 
-![image](https://github.com/argon125/CASe_UNet_Segmentation/assets/64146402/61eef38a-ff87-4206-8a6c-79f967f4556f)
+![image](https://github.com/argon125/CASe_UNet_Segmentation/assets/64146402/6e57fe3b-2727-45a5-aa85-eacaff8b7297)
 
-![image](https://github.com/argon125/CASe_UNet_Segmentation/assets/64146402/d8bb91ea-c184-46fb-bf97-5a99ac874b5a)
+![image](https://github.com/argon125/CASe_UNet_Segmentation/assets/64146402/77f61ec3-06d5-41d1-ab78-17be622f375a)
+
+
+### Case Study
+
+<img width="1221" alt="image" src="https://github.com/argon125/CASe_UNet_Segmentation/assets/64146402/65856a5e-d9cb-4e5b-9912-df4d2a51bb2c">
+
+### Key Takeaways:
+
+- CASe UNet enhances the capture of intricate features and spatial information for medical image segmentation and related tasks. 
+- Introducing multiple convolution heads enables the extraction of higher-order spatial information.
+- MHSA will capture complex spatial relationships and hierarchies within the input data, enhancing the architecture’s accuracy and robustness. 
+- Multi-level skip connections allow for processing multi-scale, and multi-level features aid in best segmentation.
+
+
+
+
 
 
 
