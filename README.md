@@ -13,3 +13,9 @@ The images of both datasets were resized to a dimension of 512*512*3. The archit
 
 ## Results and Discussion
 
+![image](https://github.com/argon125/CASe_UNet_Segmentation/assets/64146402/61eef38a-ff87-4206-8a6c-79f967f4556f)
+
+![image](https://github.com/argon125/CASe_UNet_Segmentation/assets/64146402/d8bb91ea-c184-46fb-bf97-5a99ac874b5a)
+
+
+
